@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exemple ConstraintLayout</string>
+    <string name="adressestr">
+        <b>Adresse:</b>\n
+        \t UFR SET BP 967 THIES \n
+        \t THIES, Sénégal
+    </string>
+    <string name="telephonestr">
+        <b>Téléphone:</b> +221 77 854 22 65
+    </string>
+</resources>
